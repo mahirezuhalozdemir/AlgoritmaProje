@@ -1,5 +1,5 @@
 # AlgoritmaProje
-kullanıcıdan alınan metnin dilini belirleme
+Kullanıcıdan alınan metnin dilini belirleme:
 Algoritmalar ve programlama projemizin konusu “C    Programlama” dilinde ve bu programlama diline uygun bir IDE ortamında kullanıcı tarafından girilen 
 bir metnin İngilizce dilinde mi yoksa Almanca dilinde mi yazıldığını otomatik olarak belirlemektir.
 
